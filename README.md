@@ -137,3 +137,14 @@ Repositório para armazenar os comandos de Git e Github do curso de Versionament
 **Aplicar alterações arquivadas**
 
     git stash pop
+
+## ⌨️ Convenção de Commits
+
+| Tipo | Descrição |
+| ---- | ---- |
+| `feat` | Adicionar nova funcionalidade ao projeto |
+| `fix` | Corrigir um bug ou problema no projeto |
+| `docs` | Alterar a documentação do projeto |
+| `style` | Aplicar mudanças na aparência sem afetar a funcionalidade |
+| `refactor` | Aplicar mudanças no código sem afetar a funcionalidade |
+| `test` | Adicionar ou alterar testes no projeto |  
