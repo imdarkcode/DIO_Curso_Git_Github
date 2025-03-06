@@ -90,6 +90,10 @@ Repositório para armazenar os comandos de Git e Github do curso de Versionament
 
     git push -u origin <nome_da_branch>
 
+**Enviar alterações para o repositório remoto sobrescrevendo o histórico de commits**
+
+    git push --force-with-lease origin <nome_da_branch>
+
 **Baixar alterações para o repositório local**
 
     git pull
